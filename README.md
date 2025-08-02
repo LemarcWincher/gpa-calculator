@@ -15,6 +15,7 @@ Hello! This is a simple Java program that calculates your GPA based on letter gr
 - Calculates and displays the average GPA
 
 ## Example Output
+
 How many classes? 3
 Enter class name for class 1 (or press enter to skip): Math
 Enter grade for class 1: A
