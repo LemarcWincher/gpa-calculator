@@ -1,5 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// TIP: To run the code, press the Run button or use the keyboard shortcut (usually Shift+F10).
 
 /**
  * GPA Calculator Application.
