@@ -23,7 +23,7 @@ Enter class name for class 2 (or press enter to skip): History
 Enter grade for class 2: B
 Enter class name for class 3 (or press enter to skip): Science
 Enter grade for class 3: C
-Your final GPA is: 3.00```
+Your final GPA is: 3.00
 
 ## Author
 Lemarc Wincher
